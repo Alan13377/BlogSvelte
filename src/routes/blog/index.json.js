@@ -1,18 +1,16 @@
 import posts from "./_posts.js";
 
 const contents = JSON.stringify(
-  posts.map((post) => {
-    return {
-      title: post.title,
-      slug: post.slug,
-      desc: post.desc,
-      createdAt: post.createdAt,
-      html: post.html,
-      tags: post.tags,
-      image: post.image,
-      id: post.id,
-    };
-  })
+  posts.map((post) => ({
+    ...post,
+    title: post.title,
+    slug: post.slug,
+    desc: post.desc,
+    createdAt: post.createdAt,
+    html: post.html,
+    image: post.image,
+    id: post.id,
+  }))
 );
 
 export function get(req, res) {

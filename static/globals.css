@@ -35,17 +35,23 @@ code {
   border-radius: 2px;
 }
 
-@media (min-width: 400px) {
-  body {
-    font-size: 16px;
-  }
+.content p {
+  color: #333;
+  font-size: 18px;
+  line-height: 28px;
+  margin: 0 auto;
+  margin-bottom: 12px;
+  word-break: break-word;
+  font-weight: 300;
 }
-
 .content h2 {
   font-size: 1.4em;
   font-weight: 500;
+  color: #191a22;
 }
-
+.content img {
+  width: 100%;
+}
 .content pre {
   background-color: #f9f9f9;
   box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.05);
@@ -53,16 +59,42 @@ code {
   border-radius: 2px;
   overflow-x: auto;
 }
-
 .content pre code {
   background-color: transparent;
   padding: 0;
 }
-
 .content ul {
   line-height: 1.5;
 }
-
 .content li {
   margin: 0 0 0.5em 0;
+}
+
+.content iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.content .youtube {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.content .kg-embed-card {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 0.4em 0 1.6em;
+}
+
+@media (min-width: 400px) {
+  body {
+    font-size: 16px;
+  }
 }
