@@ -22,6 +22,7 @@
 	grid: 15px;
 	grid-template-columns: 1fr;
 }
+
 </style>
 
 <svelte:head>

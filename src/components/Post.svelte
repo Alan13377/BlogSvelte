@@ -21,6 +21,8 @@
         justify-content: space-between;
         gap:5px;
         grid-template-columns: 1fr;
+        border-bottom: 1px solid #022534;
+        margin-bottom: 1rem;
     }
 
     .Post-title {
@@ -58,10 +60,9 @@
         font-weight: 700;
         
     }
-
 </style>
 
-<div class="Post-item">
+<div class="Post-item ">
     <div class="Post-content">
        <div class="Post-head">
            <div class="Post-title">
