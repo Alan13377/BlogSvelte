@@ -83,12 +83,11 @@
                         </a>
                     </li>
                     <li>
-                     <a 
-                        href="https://www.linkedin.com/in/alan-gustavo-6769591b0/" 
-                        target="_blank" 
-                        rel="noreferrer" on:click={analyticsTracking("linkedin")}>
-                        <img src="github.png" alt="GitHub"><img src="linkedin.png" alt="Linkedin">
-                    </a>
+                     <a href="https://www.linkedin.com/in/alan-gustavo-6769591b0/"
+                         target="_blank"
+                          rel="noreferrer"
+                           on:click={analyticsTracking("linkedin")}><img src="linkedin.png" alt="GitHub">
+                        </a>
                     </li>
                 </ul>
             </div>
