@@ -9,9 +9,12 @@
 <script>
 	import Post from "../components/Post.svelte";
 	export let posts;
+	let styles = {darkMode:false}
+  
 </script>
 
 <style>
+ 
 
 .Posts {
 	display: grid;
@@ -48,4 +51,5 @@
 			<Post {post}/>
 		{/each}
 	</div>
+	
 </div>

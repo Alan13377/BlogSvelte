@@ -66,7 +66,7 @@
 
 
 
-<header class="Header">  
+<header class="Header contenedor">  
     <div class="Header-container">
         <div class="Header-content">
             <div class="Header-logo">

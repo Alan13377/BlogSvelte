@@ -3,11 +3,12 @@
     import randomEmoji from "../utils/randomEmoji"
     import formatIsoTime from "../utils/formatIsoTime"
     export let post;
-
 </script>
 
 
 <style>
+
+   
     .Post-item {
         color:#191a22;
         position: relative;
@@ -57,6 +58,7 @@
         font-weight: 700;
         
     }
+
 </style>
 
 <div class="Post-item">
@@ -78,6 +80,6 @@
            <div class="Post-description">
                <p>{post.desc}</p>
            </div>
-       </div>
+        </div>
     </div>
 </div>

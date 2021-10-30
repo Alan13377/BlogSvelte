@@ -1,3 +1,18 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.contenedor {
+  width: min(75%, 120rem);
+  margin: 0 auto; /**Centramos*/
+}
+
 body {
   margin: 0;
   font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen,
@@ -13,7 +28,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 0.5em 0;
+  margin: 2rem 0 0.5em 0;
   font-weight: 400;
   line-height: 1.2;
 }
@@ -97,4 +112,9 @@ code {
   body {
     font-size: 16px;
   }
+}
+
+.dark-mode body {
+  background-color: #1d3040;
+  color: #bfc2c7;
 }

@@ -1,5 +1,6 @@
 <script>
 	export let segment;
+	
 </script>
 
 <style>
@@ -69,7 +70,7 @@
 	}
 </style>
 
-<nav class="Nav">
+<nav class="Nav contenedor">
 	<div class="Nav-container">
 		<div class="Nav-content">
 			<div class="nav-social">
