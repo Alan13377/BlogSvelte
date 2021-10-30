@@ -23,23 +23,23 @@
 
 <svelte:head>
 	<title>Alan Gustavo</title>
-	<meta name="description" content="Blog Alan">
+	<meta name="description" content="Blog AG">
 	<meta name="twitter:card" content="sumary_large_image">
 	<meta name="twitter:site" content="">
-	<meta name="twitter:title" content="Alan Gustavo">
+	<meta name="twitter:title" content="Blog AG">
 	<meta name="twitter:description" content="Blog Alan">
-	<meta name="twitter:image" content="https://arepa.s3.amazonaws.com/blogpost-cover.png">
+	<meta name="twitter:image" content="https://res.cloudinary.com/daadki0ie/image/upload/v1635282481/Rukia_rx4sfw.jpg">
 	
 	
-	<meta name="og:title" content="Alan Gustavo">
-	<meta name="og:description" content="Blog Alan">
-	<meta name="og:image" content="https://arepa.s3.amazonaws.com/blogpost-cover.png">
+	<meta name="og:title" content="Blog AG">
+	<meta name="og:description" content="Blog AG">
+	<meta name="og:image" content="https://res.cloudinary.com/daadki0ie/image/upload/v1635282481/Rukia_rx4sfw.jpg">
 	<meta name="og:url" content="https://blogalan.netlify.app/">
-	<meta name="og-site_name" content="Alan Gustavo">
+	<meta name="og-site_name" content="Blog AG">
 	<meta name="og:location" content="es_ES">
 	<meta name="og:type" content="article">
 	<meta name="fb:app_id" content="">
-	
+
 </svelte:head>
 
 <div class="Home">

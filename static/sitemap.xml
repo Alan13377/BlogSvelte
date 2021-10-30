@@ -1,0 +1,108 @@
+
+        <?xml version="1.0" encoding="UTF-8"?>
+
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+      <url>
+
+          <loc>https://blogalan.netlify.app</loc>
+
+          <lastmod>Sat, 30 Oct 2021 00:02:23 GMT</lastmod>
+
+          <priority>1.0</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/test-svelte</loc>
+
+          <lastmod>Fri, 29 Oct 2021 20:36:44 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/primer-post</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:08:21 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/welcome</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/the-editor</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/publishing-options</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/admin-settings</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/organising-content</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/apps-integrations</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/themes</loc>
+
+          <lastmod>Fri, 29 Oct 2021 01:04:29 GMT</lastmod>
+
+          <priority>0.80</priority>
+
+      </url>
+      
+    </urlset> 
+
+   
