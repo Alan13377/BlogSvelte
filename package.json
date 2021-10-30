@@ -17,10 +17,6 @@
     "sirv": "^1.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/polyfill": "^7.12.1",
-    "@babel/preset-env": "^7.16.0",
-    "babel-loader": "^8.2.3",
     "file-loader": "^6.0.0",
     "sapper": "^0.28.0",
     "svelte": "^3.17.3",

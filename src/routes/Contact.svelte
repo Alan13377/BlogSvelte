@@ -54,6 +54,21 @@
         position: relative;
         top: 1px;
     }
+
+    label{
+        text-transform: uppercase;
+        font-size: 1.5rem;
+    }
+
+    input,textarea{
+        padding: 1rem;
+        border-radius: 1rem;
+        border: 2px solid #e1e1e1;
+    }
+
+    .formulario{
+        font-weight: bold;
+    }
 </style>
 
 <div class="Contact">
