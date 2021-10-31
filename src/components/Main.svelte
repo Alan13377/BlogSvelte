@@ -1,6 +1,8 @@
 <script>
     import Sidebar from './Sidebar.svelte';
-   
+
+  
+ 
 </script>
 
 <style>
@@ -23,7 +25,9 @@
         grid-gap: 60px;
         justify-content: space-between;
     }
-   }
+   
+
+}
 
 </style>
 

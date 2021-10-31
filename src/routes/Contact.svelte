@@ -14,10 +14,8 @@
    input{
        display: block;
    }
-
-   @media (min-width: 480px) {
-       .btn{
-        box-shadow: inset 0px 1px 0px 0px #bee2f9;
+.btn{
+    box-shadow: inset 0px 1px 0px 0px #bee2f9;
         background: linear-gradient(to bottom, #63b9ee 5%, #468ccf 100%);
         background-color: #63b9ee;
         border-radius:6px;
@@ -32,10 +30,9 @@
         text-decoration: none;
         text-shadow: 0px 1px 0px #7cacde;
         width: 100%;
+}
 
-    }
-
-   }
+  
    @media (min-width: 768px) {
        .btn{
             display: block;
@@ -64,6 +61,7 @@
         padding: 1rem;
         border-radius: 1rem;
         border: 2px solid #e1e1e1;
+        
     }
 
     .formulario{

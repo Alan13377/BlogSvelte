@@ -113,7 +113,6 @@ code {
   }
 }
 
-.dark-mode body {
-  background-color: #1d3040;
-  color: #bfc2c7;
+.dark-mode {
+  background-color: blue;
 }
