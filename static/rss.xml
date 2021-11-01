@@ -25,13 +25,45 @@
   </generator>
 
   <lastBuildDate>
-    Sat, 30 Oct 2021 00:02:23 GMT
+    Sun, 31 Oct 2021 23:01:28 GMT
   </lastBuildDate>
 
   <atom:link href="https://blogalan.netlify.app/rss.xml" rel="selft" type="application/rss+xml"/>
   
   <ttl>60</ttl>
 
+    
+    <item>
+    <title>
+      <![CDATA[Halo CE (Truco)]]>
+    </title>
+    <link>
+      https://blogalan.netlify.app/blog/halo-ce-truco
+    </link>
+    <description>
+      <![CDATA[En este video podemos observar como obtener tres armas a la vez en la primera
+misión de halo Ce.
+
+Solo podremos realizar este truco durante la primera misión]]>
+    </description>
+    <category>
+      <![CDATA[undefined]]>
+    </category>
+
+    <dc:creator>
+      <![CDATA[Blog AG]]>
+    </dc:creator>
+
+    <pubDate>
+      Sat, 30 Oct 2021 22:16:13 GMT
+    </pubDate>
+
+    <media:content url="https://res.cloudinary.com/daadki0ie/image/upload/v1635282481/Rukia_rx4sfw.jpg medium=image/>
+
+    <content:encoded>
+    <![CDATA[<p>En este video podemos observar como obtener tres armas a la vez en la primera misión de halo Ce.</p><p>Solo podremos realizar este truco durante la primera misión</p><figure class="kg-card kg-embed-card"><iframe width="200" height="150" src="https://www.youtube.com/embed/EloadH0Ck6M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>]]>
+    </content:encoded>
+    </item>
     
     <item>
     <title>
@@ -59,35 +91,6 @@
 
     <content:encoded>
     <![CDATA[<p>Este es el nuevo trailer de Halo Infinite</p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/XCbMVbeKlCg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>]]>
-    </content:encoded>
-    </item>
-    
-    <item>
-    <title>
-      <![CDATA[Primer Post]]>
-    </title>
-    <link>
-      https://blogalan.netlify.app/blog/primer-post
-    </link>
-    <description>
-      <![CDATA[Hola Mundo]]>
-    </description>
-    <category>
-      <![CDATA[undefined]]>
-    </category>
-
-    <dc:creator>
-      <![CDATA[Blog AG]]>
-    </dc:creator>
-
-    <pubDate>
-      Fri, 29 Oct 2021 01:08:21 GMT
-    </pubDate>
-
-    <media:content url="https://res.cloudinary.com/daadki0ie/image/upload/v1635282481/Rukia_rx4sfw.jpg medium=image/>
-
-    <content:encoded>
-    <![CDATA[<p>Hola Mundo</p>]]>
     </content:encoded>
     </item>
     

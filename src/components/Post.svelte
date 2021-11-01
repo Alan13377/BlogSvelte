@@ -8,21 +8,40 @@
 
 <style>
 
-   
+    h2{
+        margin:0;
+    }
+    img{
+        max-width:100%;
+        width: 40rem;
+        margin-bottom:0;
+        padding: 0;
+    }
+    .Post-image{
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+    }
     .Post-item {
         color:#191a22;
         position: relative;
+        border-bottom: 1px solid #022534;
+        margin-top:1rem;
     }
-
     .Post-content {
         font-size:16px;
         font-weight:300;
         display: grid;
         justify-content: space-between;
-        gap:5px;
+
+        gap:3rem;
         grid-template-columns: 1fr;
-        border-bottom: 1px solid #022534;
-        margin-bottom: 1rem;
+      
+    }
+
+    @media (min-width: 768px) {
+        .Post-content {
+        grid-template-columns: 1fr 1fr;
+    }
     }
 
     .Post-title {
@@ -62,12 +81,14 @@
     }
 </style>
 
+
+
 <div class="Post-item ">
     <div class="Post-content">
        <div class="Post-head">
            <div class="Post-title">
                <h2>
-                   <a rel="prefetch" href="blog/{post.slug}">{randomEmoji()} {post.title}</a>
+                   <a rel="prefetch" href="blog/{post.slug}">{randomEmoji()} {post.title} </a>
                </h2>
                <p>
                    <time datetime={post.createAt}>
@@ -81,6 +102,9 @@
            <div class="Post-description">
                <p>{post.desc}</p>
            </div>
+        </div>
+        <div class="Post-image">
+            <img src={post.image} alt="">
         </div>
     </div>
 </div>

@@ -7,9 +7,19 @@
 
           <loc>https://blogalan.netlify.app</loc>
 
-          <lastmod>Sat, 30 Oct 2021 00:02:23 GMT</lastmod>
+          <lastmod>Sun, 31 Oct 2021 23:01:28 GMT</lastmod>
 
           <priority>1.0</priority>
+
+      </url>
+      
+        <url>
+
+          <loc>https://blogalan.netlify.app/blog/halo-ce-truco</loc>
+
+          <lastmod>Sat, 30 Oct 2021 22:16:13 GMT</lastmod>
+
+          <priority>0.80</priority>
 
       </url>
       
@@ -18,16 +28,6 @@
           <loc>https://blogalan.netlify.app/blog/test-svelte</loc>
 
           <lastmod>Fri, 29 Oct 2021 20:36:44 GMT</lastmod>
-
-          <priority>0.80</priority>
-
-      </url>
-      
-        <url>
-
-          <loc>https://blogalan.netlify.app/blog/primer-post</loc>
-
-          <lastmod>Fri, 29 Oct 2021 01:08:21 GMT</lastmod>
 
           <priority>0.80</priority>
 
