@@ -49,15 +49,7 @@
 				<p>Uso del Framework SvelteJs para la elaboracion de aplicaciones SPA y SSR</p>
 				<p>Conocimiento basico de SQL</p>
 			</div>
-			<div class="skills-bar">
-				<div class="bars">
-					<div class="info">
-						{#each skillsLevels as { skills, icono, porcentaje, color, delay }}
-							<SkillBars {skills} {icono} {porcentaje} {color} {delay} />
-						{/each}
-					</div>
-				</div>
-			</div>
+			
 		</div>
 	</section>
 </main>

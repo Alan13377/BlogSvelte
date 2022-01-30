@@ -1,4 +1,3 @@
-
 <script>
 	import Skills from '../Components/Skills.svelte';
 </script>
