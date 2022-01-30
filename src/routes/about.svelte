@@ -7,9 +7,7 @@
 
 
 <div class="container">
-	<section class="entrada">
-		<Skills />
-	</section>
+	hola
 </div>
 
 <style>
