@@ -1,6 +1,6 @@
 
 <script>
-	import Skills from '../Components/Skills.svelte';
+	import Skills from '../components/Skills.svelte';
 </script>
 <svelte:head>
 	<title>About</title>
