@@ -1,11 +1,16 @@
 
+<script>
+	import Skills from '../Components/Skills.svelte';
+</script>
 <svelte:head>
 	<title>About</title>
 </svelte:head>
 
 
 <div class="container">
-	hola
+	<section class="entrada">
+		<Skills />
+	</section>
 </div>
 
 <style>
